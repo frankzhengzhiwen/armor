@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+armor.orm.druid.DruidAutoConfiguration,\
+armor.orm.transaction.TxAdviceConfigurer
